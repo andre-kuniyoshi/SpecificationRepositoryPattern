@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Nome": "Joao",
+        "Sobrenome": "Silva",
+        "Idade": 20,
+        "EnderecoId": 1,
+        "TipoMatriculaId": 1
+    },
+    {
+        "Id": 2,
+        "Nome": "Pedro",
+        "Sobrenome": "Cabral",
+        "Idade": 25,
+        "EnderecoId": 2,
+        "TipoMatriculaId": 2
+    },
+    {
+        "Id": 3,
+        "Nome": "Maria Cristina",
+        "Sobrenome": "Carvalho",
+        "Idade": 30,
+        "EnderecoId": 3,
+        "TipoMatriculaId": 4
+    }
+]

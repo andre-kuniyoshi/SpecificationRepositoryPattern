@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Logradouro": "Rua aurora",
+        "Numero": "123",
+        "Bairro": "Santa Efigenia",
+        "Cidade": "Sao Paulo",
+        "UF": "SP"
+    },
+    {
+        "Id": 2,
+        "Logradouro": "Avenida paulista",
+        "Numero": "321",
+        "Bairro": "Bela Vista",
+        "Cidade": "Sao Paulo",
+        "UF": "SP"
+    },
+    {
+        "Id": 3,
+        "Logradouro": "Rua Uruguaiana",
+        "Numero": "456",
+        "Bairro": "Bosque",
+        "Cidade": "Campinas",
+        "UF": "SP"
+    }
+]

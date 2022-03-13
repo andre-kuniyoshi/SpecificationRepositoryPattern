@@ -1,0 +1,22 @@
+[
+    {
+        "Id": 1,
+        "Nome": "Graduacao"
+    },
+    {
+        "Id": 2,
+        "Nome": "Pos-Graduacao"
+    },
+    {
+        "Id": 3,
+        "Nome": "Mestrado"
+    },
+    {
+        "Id": 4,
+        "Nome": "Doutorado"
+    },
+    {
+        "Id": 5,
+        "Nome": "Extensao"
+    }
+]
